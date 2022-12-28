@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-with-mentor2/static/css/main.a0e5b917.css",
+    "main.js": "/practice-with-mentor2/static/js/main.e9792a58.js",
+    "index.html": "/practice-with-mentor2/index.html",
+    "main.a0e5b917.css.map": "/practice-with-mentor2/static/css/main.a0e5b917.css.map",
+    "main.e9792a58.js.map": "/practice-with-mentor2/static/js/main.e9792a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e5b917.css",
+    "static/js/main.e9792a58.js"
+  ]
+}
